@@ -1,3 +1,8 @@
+## 👨🏻‍💻Pembuat Tugas
+Nama: Rangga Arsya Bima
+NIM: 2411522030
+Matakuliah: Pemrograman Berorientasi Objek
+
 # PARKIR-MALL: Sistem Manajemen Parkir
 
 Aplikasi berbasis Java Console (CLI) yang dirancang untuk mengelola kendaraan masuk dan keluar secara otomatis dengan integrasi database MySQL. Proyek ini disusun untuk memenuhi seluruh kriteria penilaian UAS Pemrograman Berorientasi Objek.
@@ -62,7 +67,3 @@ src/
 └── Main.java             # Menu Utama
 
 
-## 👨🏻‍💻Pembuat Tugas
-Nama: Rangga Arsya Bima
-NIM: 2411522030
-Matakuliah: Pemrograman Berorientasi Objek
