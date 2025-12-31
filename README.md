@@ -1,7 +1,7 @@
 ## 👨🏻‍💻Pembuat Tugas
-Nama: Rangga Arsya Bima
-NIM: 2411522030
-Matakuliah: Pemrograman Berorientasi Objek
+- **Nama**: Rangga Arsya Bima
+- **NIM**: 2411522030
+- **Matakuliah**: Pemrograman Berorientasi Objek
 
 # PARKIR-MALL: Sistem Manajemen Parkir
 
